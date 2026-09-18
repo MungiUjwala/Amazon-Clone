@@ -24,4 +24,4 @@ This project was built to improve frontend development skills and practice respo
 - Improve mobile responsiveness
 
 ## Author
-Sai Subash
+Ujwala
